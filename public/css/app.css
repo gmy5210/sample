@@ -8518,3 +8518,31 @@ input {
   background-color: transparent;
 }
 
+.gravatar_edit {
+  margin: 15px auto;
+  text-align: center;
+}
+
+.gravatar_edit .gravatar {
+  float: none;
+  max-width: 100px;
+}
+
+.user {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+.user li {
+  overflow: auto;
+  padding: 10px 0;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.delete-btn {
+  float: right;
+  position: relative;
+  right: 0;
+}
+
